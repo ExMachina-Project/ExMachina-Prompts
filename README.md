@@ -133,7 +133,7 @@ description: 调试、实现、验证、代码审查、架构评估、高风险�
 
 ```bash
 mkdir -p ~/.claude/skills/exmachina/references
-git clone https://github.com/KurohaneKaoruko/ExMachina ~/exmachina
+git clone https://github.com/ExMachina-Project/ExMachina-Prompts ~/exmachina
 cp ~/exmachina/AGENTS.md ~/.claude/skills/exmachina/references/
 cp -r ~/exmachina/protocol ~/.claude/skills/exmachina/references/
 ```
